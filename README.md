@@ -46,8 +46,3 @@ When the `feedForward` method is called, the network executes the following sequ
 4. Multiplies the hidden layer output by the final output weights.
 5. Adds the output layer biases.
 6. Applies a Sigmoid activation function to map the final output to a probability distribution.
-
-## Author
-
-[cite_start]Adnan Jasim Sudheesh [cite: 38]
-[cite_start]github.com/adnanjasims [cite: 39]
